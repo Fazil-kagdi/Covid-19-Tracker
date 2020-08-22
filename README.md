@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+LINK TO THE DEPLOYED APP: https://covid-tracker-40880.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
